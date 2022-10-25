@@ -1,6 +1,6 @@
 # Exercícios de HTML, CSS e Javascript - Curso em Vídeo
 
-Estudos e desafios em HTML, CSS e Javascript, oferecidos pelo professor Gustavo Guanabara, do canal Curso em Vídeo.
+Aqui está todo meu acompanhamento deste curso.
 
 ## Onde assistir ao curso?
 
